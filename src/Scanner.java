@@ -115,14 +115,6 @@ public class Scanner {
                 k.scanning = false;
                 isRed = false;
             }
-//            if (k.x > 500 && k.x < 600) {
-//                k.scanning = true;
-//                isRed = true;
-//            }
-//            else if (k.x > 600){
-//                k.scanning = false;
-//                isRed = false;
-//            }
         }
     }
 
